@@ -42,11 +42,11 @@ Driving Factors for loan getting default:
 
 
 ## Technologies Used
-pandas
-numpy
-matplotlib
-seaborn
-datetime
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. datetime
 
 
 
@@ -55,7 +55,7 @@ Om Prakash | github - @gitmydshub
 
 
 ## Contact
-Created by Sugandha Saurabh | github - @sugandhasaurabh
+Sugandha Saurabh | github - @sugandhasaurabh
 
 
 
